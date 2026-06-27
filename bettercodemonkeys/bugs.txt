@@ -1,2 +1,6 @@
 Bug 1: [Block Coding for Kids is not working] 
 Fix Status: -NOT FIXED-
+
+Bug 2: [Python Compiler not working]
+Fix Status: -NOT FIXED-
+Solution: Content Security Policies (CSP) or use clean URL re-routing that prevents these internal backend handshakes
