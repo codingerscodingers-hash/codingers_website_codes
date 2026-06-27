@@ -1,1 +1,2 @@
-
+Bug 1: [Block Coding for Kids is not working] 
+Fix Status: -NOT FIXED-
