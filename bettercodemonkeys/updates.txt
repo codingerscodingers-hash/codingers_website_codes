@@ -14,4 +14,4 @@ Future changes version 0.0.2:
   - instructor dashboard -> for educator use
   - tablet & phone compatability
   - integrated micro-animations & core layout transitions
-  
+  - add templates for app development
