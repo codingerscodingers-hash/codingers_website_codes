@@ -8,6 +8,8 @@ Current Version 0.0.1 (27/6/2026):
 
 Future changes version 0.0.2:
   - create working log in with email and password saving
+  - log-in page more user friendly
+  - Add description popup for each curriculum
   - addition of tactile fx -> click sounds to make a tactile feel
   - live accuracy progression line graph
   - mistake analytics -> example: IndentationError, etc
