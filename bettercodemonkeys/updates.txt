@@ -5,3 +5,10 @@ Current Version 0.0.1 (27/6/2026):
   - index.html, lesson.html, login.html, app,js, style.css
   - creation of python, html, c, and app development curriculum
   - general release on static.app
+
+Future changes version 0.0.2:
+  - addition of tactile fx -> click sounds to make a tactile feel
+  - live accuracy progression line graph
+  - mistake analytics -> example: IndentationError, etc
+  - instructor dashboard -> for educator use
+  
