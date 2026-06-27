@@ -12,4 +12,6 @@ Future changes version 0.0.2:
   - live accuracy progression line graph
   - mistake analytics -> example: IndentationError, etc
   - instructor dashboard -> for educator use
+  - tablet & phone compatability
+  - integrated micro-animations & core layout transitions
   
