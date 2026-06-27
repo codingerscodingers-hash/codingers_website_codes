@@ -1,1 +1,7 @@
+All edits done to the website please put here and log it
 
+Current Version 0.0.1 (27/6/2026):
+  - Creation of website
+  - index.html, lesson.html, login.html, app,js, style.css
+  - creation of python, html, c, and app development curriculum
+  - general release on static.app
